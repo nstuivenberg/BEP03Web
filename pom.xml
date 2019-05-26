@@ -21,8 +21,8 @@
 
   <repositories>
     <repository>
-      <id>packagecloud-nstuivenberg</id>
-      <url>https://packagecloud.io/priv/e8f2b2773c0ae1810add961c7b09ab8254a8b4d32555298c/nstuivenberg/beppie/maven2</url>
+      <id>nstuivenberg-beppie</id>
+      <url>https://packagecloud.io/priv/55853329de0af19dee3e6a668087a43ca5a42dc40d17d701/nstuivenberg/beppie/maven2</url>
       <releases>
         <enabled>true</enabled>
       </releases>

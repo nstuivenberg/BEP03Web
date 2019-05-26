@@ -22,7 +22,7 @@
   <repositories>
     <repository>
       <id>nstuivenberg-beppie</id>
-      <url>https://packagecloud.io/priv/master-read/nstuivenberg/beppie/maven2</url>
+      <url>https://packagecloud.io/priv/e8f2b2773c0ae1810add961c7b09ab8254a8b4d32555298c/nstuivenberg/beppie/maven2</url>
       <releases>
         <enabled>true</enabled>
       </releases>
@@ -42,7 +42,7 @@
     <dependency>
       <groupId>nl.hu.sie.bep.friendspammer</groupId>
       <artifactId>opdracht03-nick</artifactId>
-      <version>1.0</version>
+      <version>1.1</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.tomcat/jasper -->
     <dependency>

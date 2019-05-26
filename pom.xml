@@ -40,7 +40,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>nl.hu.bep.opdracht03.stuif</groupId>
+      <groupId>nl.hu.sie.bep.friendspammer</groupId>
       <artifactId>opdracht03-nick</artifactId>
       <version>1.0</version>
     </dependency>
